@@ -1,0 +1,19 @@
+/* Created by: Graeme Barbe
+* Created on: May 01 2022
+* This CSS file defines the style for index.php
+*/
+
+/* Linear gradient (code from "https://uigradients.com/#EveningSunshine" */
+body {
+background: -webkit-linear-gradient(to right, #1565C0, #b92b27);  
+background: linear-gradient(to right, #1565C0, #b92b27);
+}
+
+/* Color changes */
+h1 {
+	color: rgb(255, 255, 255);
+}
+
+p {
+	color: rgb(255, 255, 255);
+}
